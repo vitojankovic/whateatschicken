@@ -2,211 +2,253 @@
   {
     "name": "rabbit",
     "predators": ["fox", "eagle", "owl", "snake", "wolf", "hawk"],
-    "description": "Did you know that rabbits can turn their ears to detect predators from different directions?"
+    "description": "Did you know that rabbits can turn their ears to detect predators from different directions?",
+    "emoji": "🐇"
   },
   {
     "name": "fox",
     "predators": ["wolf", "bear", "eagle", "lion", "hyena", "crocodile"],
-    "description": "Did you know that foxes use Earth's magnetic field to hunt by jumping precisely on prey even under snow?"
+    "description": "Did you know that foxes use Earth's magnetic field to hunt by jumping precisely on prey even under snow?",
+    "emoji": "🦊"
   },
   {
     "name": "eagle",
     "predators": ["wolf", "bear", "lion", "hawk"],
-    "description": "Did you know that eagles have eyesight up to 8 times stronger than humans, spotting prey from miles away?"
+    "description": "Did you know that eagles have eyesight up to 8 times stronger than humans, spotting prey from miles away?",
+    "emoji": "🦅"
   },
   {
     "name": "owl",
     "predators": ["eagle", "fox", "wolf", "hawk"],
-    "description": "Did you know that owls can rotate their heads almost 270 degrees?"
+    "description": "Did you know that owls can rotate their heads almost 270 degrees?",
+    "emoji": "🦉"
   },
   {
     "name": "wolf",
     "predators": ["bear", "lion"],
-    "description": "Did you know that wolves have large territories that can range up to 1,000 square miles?"
+    "description": "Did you know that wolves have large territories that can range up to 1,000 square miles?",
+    "emoji": "🐺"
   },
   {
     "name": "bear",
     "predators": ["lion", "crocodile"],
-    "description": "Did you know that bears can run up to 40 miles per hour despite their large size?"
+    "description": "Did you know that bears can run up to 40 miles per hour despite their large size?",
+    "emoji": "🐻"
   },
   {
     "name": "deer",
     "predators": ["wolf", "bear", "lion", "fox", "crocodile"],
-    "description": "Did you know that deer can jump as high as 10 feet in the air to escape predators?"
+    "description": "Did you know that deer can jump as high as 10 feet in the air to escape predators?",
+    "emoji": "🦌"
   },
   {
     "name": "snake",
     "predators": ["eagle", "fox", "owl", "crocodile", "hawk"],
-    "description": "Did you know that snakes use their tongues to 'smell' the air and track prey?"
+    "description": "Did you know that snakes use their tongues to 'smell' the air and track prey?",
+    "emoji": "🐍"
   },
   {
     "name": "frog",
     "predators": ["snake", "eagle", "owl", "fox"],
-    "description": "Did you know that frogs absorb water through their skin, so they don’t need to drink?"
+    "description": "Did you know that frogs absorb water through their skin, so they don’t need to drink?",
+    "emoji": "🐸"
   },
   {
     "name": "mouse",
     "predators": ["owl", "fox", "snake", "eagle", "hawk"],
-    "description": "Did you know that mice can communicate using ultrasonic sounds that humans can't hear?"
+    "description": "Did you know that mice can communicate using ultrasonic sounds that humans can't hear?",
+    "emoji": "🐁"
   },
   {
     "name": "lion",
     "predators": [],
-    "description": "Did you know that a lion's roar can be heard from as far as 5 miles away?"
+    "description": "Did you know that a lion's roar can be heard from as far as 5 miles away?",
+    "emoji": "🦁"
   },
   {
     "name": "elephant",
     "predators": [],
-    "description": "Did you know that elephants can 'hear' with their feet by detecting vibrations from long distances?"
+    "description": "Did you know that elephants can 'hear' with their feet by detecting vibrations from long distances?",
+    "emoji": "🐘"
   },
   {
     "name": "tiger",
     "predators": [],
-    "description": "Did you know that tigers have unique stripes, just like human fingerprints?"
+    "description": "Did you know that tigers have unique stripes, just like human fingerprints?",
+    "emoji": "🐅"
   },
   {
     "name": "zebra",
     "predators": ["lion", "hyena", "crocodile"],
-    "description": "Did you know that no two zebras have the same stripe pattern?"
+    "description": "Did you know that no two zebras have the same stripe pattern?",
+    "emoji": "🦓"
   },
   {
     "name": "hyena",
     "predators": ["lion"],
-    "description": "Did you know that hyenas have some of the strongest jaws in the animal kingdom, capable of crushing bones?"
+    "description": "Did you know that hyenas have some of the strongest jaws in the animal kingdom, capable of crushing bones?",
+    "emoji": "🦛"
   },
   {
     "name": "buffalo",
     "predators": ["lion", "hyena", "crocodile"],
-    "description": "Did you know that buffalos can weigh up to 2,000 pounds but can still run up to 35 mph?"
+    "description": "Did you know that buffalos can weigh up to 2,000 pounds but can still run up to 35 mph?",
+    "emoji": "🐃"
   },
   {
     "name": "cheetah",
     "predators": ["lion", "hyena", "crocodile"],
-    "description": "Did you know that cheetahs are the fastest land animals, reaching speeds of up to 70 mph?"
+    "description": "Did you know that cheetahs are the fastest land animals, reaching speeds of up to 70 mph?",
+    "emoji": "🐆"
   },
   {
     "name": "crocodile",
     "predators": ["lion", "bear"],
-    "description": "Did you know that crocodiles can hold their breath underwater for up to an hour?"
+    "description": "Did you know that crocodiles can hold their breath underwater for up to an hour?",
+    "emoji": "🐊"
   },
   {
     "name": "hippopotamus",
     "predators": [],
-    "description": "Did you know that hippos are considered one of the most dangerous animals in Africa due to their aggressive nature?"
+    "description": "Did you know that hippos are considered one of the most dangerous animals in Africa due to their aggressive nature?",
+    "emoji": "🦛"
   },
   {
     "name": "giraffe",
     "predators": ["lion", "hyena", "crocodile"],
-    "description": "Did you know that a giraffe's tongue is about 20 inches long and helps it grab leaves?"
+    "description": "Did you know that a giraffe's tongue is about 20 inches long and helps it grab leaves?",
+    "emoji": "🦒"
   },
   {
     "name": "kangaroo",
     "predators": ["dingo"],
-    "description": "Did you know that kangaroos can leap over 30 feet in a single bound?"
+    "description": "Did you know that kangaroos can leap over 30 feet in a single bound?",
+    "emoji": "🦘"
   },
   {
     "name": "dingo",
     "predators": ["crocodile"],
-    "description": "Did you know that dingoes are Australia's largest terrestrial predator?"
+    "description": "Did you know that dingoes are Australia's largest terrestrial predator?",
+    "emoji": "🐕"
   },
   {
     "name": "penguin",
     "predators": ["leopard seal", "orca", "shark"],
-    "description": "Did you know that penguins can dive as deep as 500 meters in search of food?"
+    "description": "Did you know that penguins can dive as deep as 500 meters in search of food?",
+    "emoji": "🐧"
   },
   {
     "name": "leopard seal",
     "predators": ["orca", "shark"],
-    "description": "Did you know that leopard seals can grow up to 12 feet long, making them one of the Antarctic's top predators?"
+    "description": "Did you know that leopard seals can grow up to 12 feet long, making them one of the Antarctic's top predators?",
+    "emoji": "🐬"
   },
   {
     "name": "orca",
     "predators": [],
-    "description": "Did you know that orcas are also known as 'killer whales' but are actually the largest species of dolphin?"
+    "description": "Did you know that orcas are also known as 'killer whales' but are actually the largest species of dolphin?",
+    "emoji": "🐋"
   },
   {
     "name": "shark",
     "predators": ["orca"],
-    "description": "Did you know that sharks have existed for over 400 million years, longer than dinosaurs?"
+    "description": "Did you know that sharks have existed for over 400 million years, longer than dinosaurs?",
+    "emoji": "🦈"
   },
   {
     "name": "seal",
     "predators": ["orca", "shark"],
-    "description": "Did you know that seals can sleep underwater and come up for air every few minutes?"
+    "description": "Did you know that seals can sleep underwater and come up for air every few minutes?",
+    "emoji": "🦭"
   },
   {
     "name": "octopus",
     "predators": ["shark", "seal", "orca"],
-    "description": "Did you know that octopuses have three hearts and blue blood?"
+    "description": "Did you know that octopuses have three hearts and blue blood?",
+    "emoji": "🐙"
   },
   {
     "name": "salmon",
     "predators": ["seal", "bear"],
-    "description": "Did you know that salmon return to the exact river where they were born to spawn?"
+    "description": "Did you know that salmon return to the exact river where they were born to spawn?",
+    "emoji": "🐟"
   },
   {
     "name": "otter",
     "predators": ["eagle", "orca", "shark"],
-    "description": "Did you know that sea otters hold hands when they sleep to avoid drifting apart?"
+    "description": "Did you know that sea otters hold hands when they sleep to avoid drifting apart?",
+    "emoji": "🦦"
   },
   {
     "name": "sparrow",
     "predators": ["hawk", "snake", "owl"],
-    "description": "Did you know that sparrows have been associated with humans for over 10,000 years?"
+    "description": "Did you know that sparrows have been associated with humans for over 10,000 years?",
+    "emoji": "🐦"
   },
   {
     "name": "hawk",
     "predators": ["eagle", "wolf"],
-    "description": "Did you know that hawks have incredible eyesight, able to spot prey from 100 feet in the air?"
+    "description": "Did you know that hawks have incredible eyesight, able to spot prey from 100 feet in the air?",
+    "emoji": "🦅"
   },
   {
     "name": "caterpillar",
     "predators": ["sparrow", "frog", "snake"],
-    "description": "Did you know that caterpillars can grow up to 1000 times their size in just a few weeks?"
+    "description": "Did you know that caterpillars can grow up to 1000 times their size in just a few weeks?",
+    "emoji": "🐛"
   },
   {
     "name": "bat",
     "predators": ["hawk", "owl"],
-    "description": "Did you know that bats are the only mammals capable of true flight?"
+    "description": "Did you know that bats are the only mammals capable of true flight?",
+    "emoji": "🦇"
   },
   {
     "name": "rat",
     "predators": ["owl", "fox", "snake", "eagle", "hawk"],
-    "description": "Did you know that rats can swim for hours and can even tread water for up to three days?"
+    "description": "Did you know that rats can swim for hours and can even tread water for up to three days?",
+    "emoji": "🐀"
   },
   {
     "name": "chicken",
     "predators": ["fox", "hawk", "eagle", "owl", "snake"],
-    "description": "Did you know that chickens are the closest living relative to the Tyrannosaurus rex?"
+    "description": "Did you know that chickens are the closest living relative to the Tyrannosaurus rex?",
+    "emoji": "🐔"
   },
   {
     "name": "peacock",
     "predators": ["tiger", "fox", "leopard"],
-    "description": "Did you know that peacocks can make over 11 different sounds to communicate?"
+    "description": "Did you know that peacocks can make over 11 different sounds to communicate?",
+    "emoji": "🦚"
   },
   {
     "name": "swan",
     "predators": ["fox", "eagle", "owl"],
-    "description": "Did you know that swans are known to mate for life, often staying with the same partner forever?"
+    "description": "Did you know that swans are known to mate for life, often staying with the same partner forever?",
+    "emoji": "🦢"
   },
   {
     "name": "dog",
     "predators": ["wolf"],
-    "description": "Did you know that dogs can recognize more than 100 words and gestures?"
+    "description": "Did you know that dogs can recognize more than 100 words and gestures?",
+    "emoji": "🐕"
   },
   {
     "name": "cat",
     "predators": ["dog"],
-    "description": "Did you know that domestic cats can run up to 30 miles per hour?"
+    "description": "Did you know that domestic cats can run up to 30 miles per hour?",
+    "emoji": "🐈"
   },
   {
     "name": "panda",
     "predators": [],
-    "description": "Did you know that pandas spend up to 16 hours a day eating bamboo?"
+    "description": "Did you know that pandas spend up to 16 hours a day eating bamboo?",
+    "emoji": "🐼"
   },
   {
     "name": "monkey",
     "predators": ["eagle", "leopard", "snake", "tiger"],
-    "description": "Did you know that monkeys can understand numbers and use tools?"
+    "description": "Did you know that monkeys can understand numbers and use tools?",
+    "emoji": "🐒"
   }
 ]
